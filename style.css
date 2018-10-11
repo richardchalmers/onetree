@@ -1,0 +1,92 @@
+html,
+body{
+	height: 100%;
+	font-size: 	16px;
+	background: url(img/background.jpg) center center; 	
+}
+.bold-green{
+	font-weight: 	bold;	
+	color: green;
+}
+.green-underline{
+	text-decoration: 	underline;	
+	text-decoration-color: 	green;
+}
+ #cover{
+ 	height: 100%;
+ 	background: url(img/trees.jpg) center;\ 
+ 	background-size: cover;
+ 	color: black;
+
+ }
+ .wall-sticker{
+ 	padding: 14rem 20rem 6rem 3rem;
+ 	font-size: 5rem;
+ 	font-weight: bold;
+ 	color: green;
+ 	background: rgba(0,0,0,0.3);
+
+ }
+ .moto{
+ 	font-size: 3rem;
+ 	margin-top: 245px;
+ 	margin-left: 350px;
+ 	text-align: center;
+ }
+
+ .btn{
+ 	border: 1px solid green;
+ }
+
+ .btn-lg,
+ .btn-outline-success{
+ 	background-color: transparent;
+ 	border-radius: 5px;
+ 	border-color: 1px solid rgba(19, 128, 26, 1);
+ 	transition: 0.5s;
+ } 
+
+.btn-lg:hover,
+.btn-lg:focus,
+.btn-lg:active,
+.btn-outline-success:hover,
+.btn-outline-success:focus,
+.btn-outline-success:active{
+	background-color: rgba(19,128,36,0.54); 
+	border:1px solid rgba(19, 128, 26, 0);
+	transition: 0.5s;
+}
+
+.fa-arrow-down{
+	margin-left: 35rem;
+	margin-top: 50px;
+	font-size: 2.5rem;
+	color: white;
+	transition: 0.3s;
+}
+
+.fa-arrow-down:hover{
+	color: rgba(19,128,36,0.54);
+	transition: 0.3s;
+}
+
+.navbar-brand{
+	padding-right: 15px;
+}
+
+#main-nav li a{
+	border-bottom: 1px solid transparent;
+	transition: 0.5s;
+}
+#main-nav li a:hover{
+	border-bottom: 1px solid green;
+	transition: 0.5s;
+}
+
+.square{
+
+}
+
+.green-hr{
+	
+}
