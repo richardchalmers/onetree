@@ -84,9 +84,23 @@ body{
 }
 
 .square{
+	text-align: center;
 
+}
+
+.square fa {
+	color: green;
 }
 
 .green-hr{
 	
+}
+
+.under-heading{
+	text-align: center;
+	font-size: 18px;
+}
+h2 {
+	text-align: center;
+	margin-top: 2rem;
 }
