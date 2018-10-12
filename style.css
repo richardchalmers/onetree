@@ -82,11 +82,40 @@ body{
 	border-bottom: 1px solid green;
 	transition: 0.5s;
 }
-
+.section-features{
+	padding: 5rem 0;
+}
 .square{
-
+	text-align: center;
 }
 
+.square i{
+	text-align: center;
+	margin-top: 5rem;
+	margin-bottom: 1rem;
+}
+
+.square i:hover{
+	color: rgba(19,128,36,1);
+	transition: 0.3s;
+}
+
+.square p {
+	padding-top: 1rem;
+	font-size: 1.2rem;
+
+		}
+
 .green-hr{
-	
+	border-top: 1px solid rgba(19,128,36,1);
+	width: 150px;
+	background-color: rgba(19,128,36,1);
+}
+
+.heading{
+	text-align: center;
+}
+
+.under-heading{
+	text-align: center;
 }
