@@ -87,7 +87,9 @@ body{
 }
 .square{
 	text-align: center;
+
 }
+
 
 .square i{
 	text-align: center;
@@ -99,6 +101,7 @@ body{
 	color: rgba(19,128,36,1);
 	transition: 0.3s;
 }
+
 
 .square p {
 	padding-top: 1rem;
@@ -118,4 +121,3 @@ body{
 
 .under-heading{
 	text-align: center;
-}
